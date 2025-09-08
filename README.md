@@ -19,7 +19,7 @@ Aufgaben können hinzugefügt, angezeigt und per Checkbox als erledigt markiert 
 
  ## Technologien
 
-* Java 17+
+* Java
 
 * JavaFX
 
